@@ -1,0 +1,142 @@
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+*[b-bzneu7svrp]{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body[b-bzneu7svrp]{
+  font-family: 'Open Sans', sans-serif;
+}
+.container[b-bzneu7svrp]{
+  padding: 10px 0;
+  width: 90%;
+  max-width: 1000px;
+  margin: auto;
+  overflow: hidden;
+}
+/*aqui iria un titulo por sitio, depronto sea en site.css y no aqui en el de layout*/
+/*HEADER*/
+.myHeader[b-bzneu7svrp]{
+  width: 100%;
+  height: 300px;
+  background: #ffd89b;
+  background: -webkit-linear-gradient(to right, hsla(204, 66%, 29%), hsl(37, 100%, 80%)),url("../../img/pexels-pixabay-33129.jpg");
+  background: linear-gradient(to right, hsla(204, 66%, 29%), hsla(37, 100%, 80%)),url("../../img/pexels-pixabay-33129.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+}.wave[b-bzneu7svrp]{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}.myTextHeader[b-bzneu7svrp]{
+  display: flex;
+  height: 230px;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}.myTextHeader h1[b-bzneu7svrp]{
+  font-size: 50px;
+  color: #fff;
+}.myTextHeader h2[b-bzneu7svrp]{
+  font-size: 30px;
+  color: #fff;
+}
+
+/*FOOTER*/
+footer[b-bzneu7svrp]{
+  background: #1f1f1f;
+  padding: 50px 0 30px 0;
+  margin: auto;
+  overflow: hidden;
+}.preFooter[b-bzneu7svrp]{
+  background: #343434;
+  width: 100%;
+  height: 50px;
+}.preFooter p[b-bzneu7svrp]{
+  font-size: 20px;
+  color: #fff;
+  text-align: center;
+  justify-content: center;
+}.conteiner_footer[b-bzneu7svrp]{
+  display: flex;
+  width: 95%;
+  justify-content: space-evenly;
+  margin: auto;
+  padding-bottom: 10px;
+  margin-top: 20px;
+}.content_foo[b-bzneu7svrp]{
+  text-align: center;
+}.content_foo h4[b-bzneu7svrp]{
+  font-size: 15px;
+  color: #fff;
+  border-bottom: 1px solid #ffd89b;
+  padding-bottom: 5px;
+  margin-bottom: 20px;
+}.content_foo p[b-bzneu7svrp]{
+  color: #d7d7d7;
+  font-size: 12px;
+}.separator[b-bzneu7svrp]{
+  border-bottom: 1px solid #fff;
+  width: 95%;
+  margin-top: 50px;
+}.tittle_final[b-bzneu7svrp]{
+  text-align: center;
+  font-size: 24px;
+  margin: 20px 0 0 0;
+  color: #9e9797
+}
+
+/*EL NAV POR DEFAULT*/
+/*
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a {
+  color: #0077cc;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+*/
+
+/*
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+*/

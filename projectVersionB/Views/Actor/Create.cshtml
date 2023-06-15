@@ -1,0 +1,72 @@
+@model Actor
+
+@{
+    ViewData["Title"] = "Create a new Actor";
+}
+
+<div class="row text">
+    <div class="col-md-8 offset-md-2">
+        <h3>Create a new Actor</h3>
+
+        <div class="row">
+            <div class="col-md-8 offset-md-2">
+                <form asp-action="Create">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                    <div class="form-group">
+                        <label asp-for="FullName" class="control-label"></label>
+                        <input asp-for="FullName" class="form-control" />
+                        <span asp-validation-for="FullName" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Bio" class="control-label"></label>
+                        <textarea asp-for="Bio" class="form-control" ></textarea>
+                        <span asp-validation-for="Bio" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="ProfilePictureURL" class="control-label"></label>
+                        <input asp-for="ProfilePictureURL" class="form-control" id="Photo" />
+                        <span asp-validation-for="ProfilePictureURL" class="text-danger"></span>
+                    </div>
+                    <div class="form-group text-center mt-3">
+                        <img src="" style="width: 200px" id="PhotoPreview"/>
+                    </div>
+
+                    <div class="form-group mt-2">
+                        <input type="submit" class="btn btn-outline-success float-end" value="Create New Actor" />
+                        <a class="btn btn-outline-secondary" asp-action="Index">Show all</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts
+{
+    <script>
+        var output = document.getElementById('PhotoPreview');
+        $(document).ready(function () {
+            output.src = $('#Photo').val();
+        })
+        $("#Photo").on("change", function () {
+            output.src = $(this).val();
+        })
+    </script>
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

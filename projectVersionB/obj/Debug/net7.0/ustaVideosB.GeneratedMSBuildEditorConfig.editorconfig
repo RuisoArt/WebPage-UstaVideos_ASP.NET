@@ -1,0 +1,93 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ustaVideosB
+build_property.RootNamespace = ustaVideosB
+build_property.ProjectDir = E:\My PC\USTA\2023-1\ASP.NET\ProjectVisualStudio\ustaVideos\ustaVideosB\ustaVideosB\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\My PC\USTA\2023-1\ASP.NET\ProjectVisualStudio\ustaVideos\ustaVideosB\ustaVideosB
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/My PC/USTA/2023-1/ASP.NET/ProjectVisualStudio/ustaVideos/ustaVideosB/ustaVideosB/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/My PC/USTA/2023-1/ASP.NET/ProjectVisualStudio/ustaVideos/ustaVideosB/ustaVideosB/Views/Actor/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/My PC/USTA/2023-1/ASP.NET/ProjectVisualStudio/ustaVideos/ustaVideosB/ustaVideosB/Views/Actor/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/My PC/USTA/2023-1/ASP.NET/ProjectVisualStudio/ustaVideos/ustaVideosB/ustaVideosB/Views/Actor/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/My PC/USTA/2023-1/ASP.NET/ProjectVisualStudio/ustaVideos/ustaVideosB/ustaVideosB/Views/Actor/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/My PC/USTA/2023-1/ASP.NET/ProjectVisualStudio/ustaVideos/ustaVideosB/ustaVideosB/Views/Actor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/My PC/USTA/2023-1/ASP.NET/ProjectVisualStudio/ustaVideos/ustaVideosB/ustaVideosB/Views/Cinema/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2luZW1hXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/My PC/USTA/2023-1/ASP.NET/ProjectVisualStudio/ustaVideos/ustaVideosB/ustaVideosB/Views/Director/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZWN0b3JcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/My PC/USTA/2023-1/ASP.NET/ProjectVisualStudio/ustaVideos/ustaVideosB/ustaVideosB/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/My PC/USTA/2023-1/ASP.NET/ProjectVisualStudio/ustaVideos/ustaVideosB/ustaVideosB/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/My PC/USTA/2023-1/ASP.NET/ProjectVisualStudio/ustaVideos/ustaVideosB/ustaVideosB/Views/Movie/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/My PC/USTA/2023-1/ASP.NET/ProjectVisualStudio/ustaVideos/ustaVideosB/ustaVideosB/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/My PC/USTA/2023-1/ASP.NET/ProjectVisualStudio/ustaVideos/ustaVideosB/ustaVideosB/Views/Shared/NotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE5vdEZvdW5kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/My PC/USTA/2023-1/ASP.NET/ProjectVisualStudio/ustaVideos/ustaVideosB/ustaVideosB/Views/Shared/_CreateItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DcmVhdGVJdGVtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/My PC/USTA/2023-1/ASP.NET/ProjectVisualStudio/ustaVideos/ustaVideosB/ustaVideosB/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/My PC/USTA/2023-1/ASP.NET/ProjectVisualStudio/ustaVideos/ustaVideosB/ustaVideosB/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/My PC/USTA/2023-1/ASP.NET/ProjectVisualStudio/ustaVideos/ustaVideosB/ustaVideosB/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/My PC/USTA/2023-1/ASP.NET/ProjectVisualStudio/ustaVideos/ustaVideosB/ustaVideosB/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/My PC/USTA/2023-1/ASP.NET/ProjectVisualStudio/ustaVideos/ustaVideosB/ustaVideosB/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-bzneu7svrp

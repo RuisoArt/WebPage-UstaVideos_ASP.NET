@@ -1,0 +1,81 @@
+@model IEnumerable<Actor>
+@using X.PagedList
+@using X.PagedList.Mvc.Core;
+@using X.PagedList.Web.Common;
+@{
+    ViewData["Title"] = "Actor List";
+}
+
+<div class="row">
+    <div class="col-md-10 offset-md-1">
+        <table class="table">
+            <thead>
+            <tr class="text-center">
+                <th>@Html.DisplayNameFor(m => m.ProfilePictureURL)</th>
+                <th>
+                    @Html.ActionLink(
+                        Html.DisplayNameFor(m => m.FullName),
+                        "Index",
+                        new { sortOn = "FullName", orderBy = ViewBag.OrderBy, pSortOn = ViewBag.SortOn }
+                        )
+                </th>
+                <th>
+                    @Html.ActionLink(
+                        Html.DisplayNameFor(m => m.Bio),
+                        "Index",
+                        new { sortOn = "Bio", orderBy = ViewBag.OrderBy, pSortOn = ViewBag.SortOn }
+                        )
+                </th>
+                <th>Actions</th>
+            </tr>
+            </thead>
+            <tbody>
+            @*@foreach (var item in Model)*@
+            @foreach (var item in ViewBag.actors)
+            {
+                <tr class="text-center">
+                    <td class="text-center">
+                        <img class="rounded-circle" src="@item.ProfilePictureURL" alt="@item.FullName" style="width:150px"/>
+                    </td>
+                    <td class="text-start small">@item.FullName</td>
+                    <td class="text-start small">@item.Bio</td>
+                    <td class="text-start d-flex">
+                        <a class="btn btn-outline-primary btn-sm col-5" asp-action="Edit" asp-route-id="@item.Id"><i class="bi bi-pencil-square"></i> Edit</a>
+                        <a class="btn btn-outline-info btn-sm col-5" asp-action="Details" asp-route-id="@item.Id"><i class="bi bi-eye"></i> Details</a>
+                        <a class="btn btn-danger text-white btn-sm col-5" asp-action="Delete" asp-route-id="@item.Id"><i class="bi bi-trash"></i> Delete</a>
+                    </td>
+                </tr>
+            }
+            <div class="row">
+                <div class="pagination pagination-sm justify-content-center">
+                    @Html.PagedListPager(
+                        (IPagedList)ViewBag.actors,
+                        page => Url.Action(
+                            "Index",
+                            "Actor",
+                            new
+                            {
+                                page,
+                                sortOn = ViewBag.SortOn,
+                                orderBy = ViewBag.OrderBy,
+                                pSortOn = ViewBag.SortOn
+                            }
+                            ),
+                        new PagedListRenderOptions()
+                        {
+                            UlElementClasses = new[] { "pagination" },
+                            ContainerDivClasses = new[] { "pagination-container" },
+                            LiElementClasses = new string[] { "page-item" },
+                            PageClasses = new string[] { "page-link" }
+                        }
+                        )
+                </div>
+            </div>
+
+            </tbody>
+
+            @await Html.PartialAsync("_CreateItem", "Actor")
+
+        </table>
+    </div>
+</div>
