@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="89 3 1126 588" width="1037px" height="585px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+   <line x1="357" y1="205" x2="347" y2="205" style="stroke:#333;stroke-width:1;"/>
+   <line x1="261" y1="181" x2="251" y2="181" style="stroke:#333;stroke-width:1;"/>
+   <line x1="347" y1="205" x2="261" y2="181" style="stroke:#333;stroke-width:1;"/>
+   <line x1="349.5" y1="205" x2="353.03553390593" y2="208.53553390593" style="stroke:#333;stroke-width:2;"/>
+   <line x1="349.5" y1="205" x2="353.03553390593" y2="201.46446609407" style="stroke:#333;stroke-width:2;"/>
+   <line x1="256" y1="181" x2="259.53553390593" y2="184.53553390593" style="stroke:#333;stroke-width:2;"/>
+   <line x1="256" y1="181" x2="259.53553390593" y2="177.46446609407" style="stroke:#333;stroke-width:2;"/>
+   <line x1="963" y1="68" x2="953" y2="68" style="stroke:#b0b;stroke-width:1;"/>
+   <line x1="844" y1="76" x2="834" y2="76" style="stroke:#b0b;stroke-width:1;"/>
+   <line x1="953" y1="68" x2="844" y2="76" style="stroke:#b0b;stroke-width:1;"/>
+   <line x1="955.5" y1="68" x2="959.03553390593" y2="71.535533905933" style="stroke:#b0b;stroke-width:2;"/>
+   <line x1="955.5" y1="68" x2="959.03553390593" y2="64.464466094067" style="stroke:#b0b;stroke-width:2;"/>
+   <line x1="839" y1="76" x2="842.53553390593" y2="79.535533905933" style="stroke:#b0b;stroke-width:2;"/>
+   <line x1="839" y1="76" x2="842.53553390593" y2="72.464466094067" style="stroke:#b0b;stroke-width:2;"/>
+   <line x1="643" y1="529" x2="633" y2="529" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="636" y1="76" x2="646" y2="76" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="633" y1="529" x2="636" y2="76" style="stroke:#cb0;stroke-width:1;"/>
+   <line x1="635.5" y1="529" x2="639.03553390593" y2="532.53553390593" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="635.5" y1="529" x2="639.03553390593" y2="525.46446609407" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="641" y1="76" x2="637.46446609407" y2="79.535533905933" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="641" y1="76" x2="637.46446609407" y2="72.464466094067" style="stroke:#cb0;stroke-width:2;"/>
+   <line x1="107" y1="104" x2="97" y2="104" style="stroke:#333;stroke-width:1;"/>
+   <line x1="94" y1="181" x2="104" y2="181" style="stroke:#333;stroke-width:1;"/>
+   <line x1="97" y1="104" x2="94" y2="181" style="stroke:#333;stroke-width:1;"/>
+   <line x1="99.5" y1="104" x2="103.03553390593" y2="107.53553390593" style="stroke:#333;stroke-width:2;"/>
+   <line x1="99.5" y1="104" x2="103.03553390593" y2="100.46446609407" style="stroke:#333;stroke-width:2;"/>
+   <line x1="99" y1="181" x2="95.464466094067" y2="184.53553390593" style="stroke:#333;stroke-width:2;"/>
+   <line x1="99" y1="181" x2="95.464466094067" y2="177.46446609407" style="stroke:#333;stroke-width:2;"/>
+   <line x1="241" y1="84" x2="251" y2="84" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="636" y1="76" x2="646" y2="76" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="251" y1="84" x2="636" y2="76" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="248.5" y1="84" x2="244.96446609407" y2="87.535533905933" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="248.5" y1="84" x2="244.96446609407" y2="80.464466094067" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="641" y1="76" x2="637.46446609407" y2="79.535533905933" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="641" y1="76" x2="637.46446609407" y2="72.464466094067" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="967" y1="177" x2="957" y2="177" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="844" y1="76" x2="834" y2="76" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="957" y1="177" x2="844" y2="76" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="959.5" y1="177" x2="963.03553390593" y2="180.53553390593" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="959.5" y1="177" x2="963.03553390593" y2="173.46446609407" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="839" y1="76" x2="842.53553390593" y2="79.535533905933" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="839" y1="76" x2="842.53553390593" y2="72.464466094067" style="stroke:#bbb;stroke-width:2;"/>
+   <rect width="141" height="20" x="357" y="155" style="fill:#007;stroke:black;"/>
+   <text width="141" height="20" x="362" y="169" style="fill:#fff;" font-family="Arial" font-size="16px"> AspNetRoleClaims</text>
+   <rect width="141" height="20" x="357" y="175" style="fill:#aea;stroke:black;"/>
+   <text width="141" height="20" x="362" y="189" style="fill:black;" font-family="Arial" font-size="16px">Id</text>
+   <rect width="141" height="20" x="357" y="195" style="fill:none;stroke:black;"/>
+   <text width="141" height="20" x="362" y="209" style="fill:black;" font-family="Arial" font-size="16px">RoleId</text>
+   <rect width="141" height="20" x="357" y="215" style="fill:none;stroke:black;"/>
+   <text width="141" height="20" x="362" y="229" style="fill:black;" font-family="Arial" font-size="16px">ClaimType</text>
+   <rect width="141" height="20" x="357" y="235" style="fill:none;stroke:black;"/>
+   <text width="141" height="20" x="362" y="249" style="fill:black;" font-family="Arial" font-size="16px">ClaimValue</text>
+   <rect width="147" height="20" x="104" y="151" style="fill:#007;stroke:black;"/>
+   <text width="147" height="20" x="109" y="165" style="fill:#fff;" font-family="Arial" font-size="16px"> AspNetRoles</text>
+   <rect width="147" height="20" x="104" y="171" style="fill:none;stroke:black;"/>
+   <text width="147" height="20" x="109" y="185" style="fill:black;" font-family="Arial" font-size="16px">Id</text>
+   <rect width="147" height="20" x="104" y="191" style="fill:none;stroke:black;"/>
+   <text width="147" height="20" x="109" y="205" style="fill:black;" font-family="Arial" font-size="16px">Name</text>
+   <rect width="147" height="20" x="104" y="211" style="fill:none;stroke:black;"/>
+   <text width="147" height="20" x="109" y="225" style="fill:black;" font-family="Arial" font-size="16px">NormalizedName</text>
+   <rect width="147" height="20" x="104" y="231" style="fill:none;stroke:black;"/>
+   <text width="147" height="20" x="109" y="245" style="fill:black;" font-family="Arial" font-size="16px">ConcurrencyStamp</text>
+   <rect width="141" height="20" x="963" y="18" style="fill:#007;stroke:black;"/>
+   <text width="141" height="20" x="968" y="32" style="fill:#fff;" font-family="Arial" font-size="16px"> AspNetUserClaims</text>
+   <rect width="141" height="20" x="963" y="38" style="fill:#aea;stroke:black;"/>
+   <text width="141" height="20" x="968" y="52" style="fill:black;" font-family="Arial" font-size="16px">Id</text>
+   <rect width="141" height="20" x="963" y="58" style="fill:none;stroke:black;"/>
+   <text width="141" height="20" x="968" y="72" style="fill:black;" font-family="Arial" font-size="16px">UserId</text>
+   <rect width="141" height="20" x="963" y="78" style="fill:none;stroke:black;"/>
+   <text width="141" height="20" x="968" y="92" style="fill:black;" font-family="Arial" font-size="16px">ClaimType</text>
+   <rect width="141" height="20" x="963" y="98" style="fill:none;stroke:black;"/>
+   <text width="141" height="20" x="968" y="112" style="fill:black;" font-family="Arial" font-size="16px">ClaimValue</text>
+   <rect width="166" height="20" x="643" y="439" style="fill:#007;stroke:black;"/>
+   <text width="166" height="20" x="648" y="453" style="fill:#fff;" font-family="Arial" font-size="16px"> AspNetUserLogins</text>
+   <rect width="166" height="20" x="643" y="459" style="fill:none;stroke:black;"/>
+   <text width="166" height="20" x="648" y="473" style="fill:black;" font-family="Arial" font-size="16px">LoginProvider</text>
+   <rect width="166" height="20" x="643" y="479" style="fill:#aea;stroke:black;"/>
+   <text width="166" height="20" x="648" y="493" style="fill:black;" font-family="Arial" font-size="16px">ProviderKey</text>
+   <rect width="166" height="20" x="643" y="499" style="fill:none;stroke:black;"/>
+   <text width="166" height="20" x="648" y="513" style="fill:black;" font-family="Arial" font-size="16px">ProviderDisplayName</text>
+   <rect width="166" height="20" x="643" y="519" style="fill:none;stroke:black;"/>
+   <text width="166" height="20" x="648" y="533" style="fill:black;" font-family="Arial" font-size="16px">UserId</text>
+   <rect width="134" height="20" x="107" y="54" style="fill:#007;stroke:black;"/>
+   <text width="134" height="20" x="112" y="68" style="fill:#fff;" font-family="Arial" font-size="16px"> AspNetUserRoles</text>
+   <rect width="134" height="20" x="107" y="74" style="fill:none;stroke:black;"/>
+   <text width="134" height="20" x="112" y="88" style="fill:black;" font-family="Arial" font-size="16px">UserId</text>
+   <rect width="134" height="20" x="107" y="94" style="fill:#aea;stroke:black;"/>
+   <text width="134" height="20" x="112" y="108" style="fill:black;" font-family="Arial" font-size="16px">RoleId</text>
+   <rect width="188" height="20" x="646" y="46" style="fill:#007;stroke:black;"/>
+   <text width="188" height="20" x="651" y="60" style="fill:#fff;" font-family="Arial" font-size="16px"> AspNetUsers</text>
+   <rect width="188" height="20" x="646" y="66" style="fill:none;stroke:black;"/>
+   <text width="188" height="20" x="651" y="80" style="fill:black;" font-family="Arial" font-size="16px">Id</text>
+   <rect width="188" height="20" x="646" y="86" style="fill:none;stroke:black;"/>
+   <text width="188" height="20" x="651" y="100" style="fill:black;" font-family="Arial" font-size="16px">UserName</text>
+   <rect width="188" height="20" x="646" y="106" style="fill:none;stroke:black;"/>
+   <text width="188" height="20" x="651" y="120" style="fill:black;" font-family="Arial" font-size="16px">NormalizedUserName</text>
+   <rect width="188" height="20" x="646" y="126" style="fill:none;stroke:black;"/>
+   <text width="188" height="20" x="651" y="140" style="fill:black;" font-family="Arial" font-size="16px">Email</text>
+   <rect width="188" height="20" x="646" y="146" style="fill:none;stroke:black;"/>
+   <text width="188" height="20" x="651" y="160" style="fill:black;" font-family="Arial" font-size="16px">NormalizedEmail</text>
+   <rect width="188" height="20" x="646" y="166" style="fill:none;stroke:black;"/>
+   <text width="188" height="20" x="651" y="180" style="fill:black;" font-family="Arial" font-size="16px">EmailConfirmed</text>
+   <rect width="188" height="20" x="646" y="186" style="fill:none;stroke:black;"/>
+   <text width="188" height="20" x="651" y="200" style="fill:black;" font-family="Arial" font-size="16px">PasswordHash</text>
+   <rect width="188" height="20" x="646" y="206" style="fill:none;stroke:black;"/>
+   <text width="188" height="20" x="651" y="220" style="fill:black;" font-family="Arial" font-size="16px">SecurityStamp</text>
+   <rect width="188" height="20" x="646" y="226" style="fill:none;stroke:black;"/>
+   <text width="188" height="20" x="651" y="240" style="fill:black;" font-family="Arial" font-size="16px">ConcurrencyStamp</text>
+   <rect width="188" height="20" x="646" y="246" style="fill:none;stroke:black;"/>
+   <text width="188" height="20" x="651" y="260" style="fill:black;" font-family="Arial" font-size="16px">PhoneNumber</text>
+   <rect width="188" height="20" x="646" y="266" style="fill:none;stroke:black;"/>
+   <text width="188" height="20" x="651" y="280" style="fill:black;" font-family="Arial" font-size="16px">PhoneNumberConfirmed</text>
+   <rect width="188" height="20" x="646" y="286" style="fill:none;stroke:black;"/>
+   <text width="188" height="20" x="651" y="300" style="fill:black;" font-family="Arial" font-size="16px">TwoFactorEnabled</text>
+   <rect width="188" height="20" x="646" y="306" style="fill:none;stroke:black;"/>
+   <text width="188" height="20" x="651" y="320" style="fill:black;" font-family="Arial" font-size="16px">LockoutEnd</text>
+   <rect width="188" height="20" x="646" y="326" style="fill:none;stroke:black;"/>
+   <text width="188" height="20" x="651" y="340" style="fill:black;" font-family="Arial" font-size="16px">LockoutEnabled</text>
+   <rect width="188" height="20" x="646" y="346" style="fill:none;stroke:black;"/>
+   <text width="188" height="20" x="651" y="360" style="fill:black;" font-family="Arial" font-size="16px">AccessFailedCount</text>
+   <rect width="144" height="20" x="967" y="147" style="fill:#007;stroke:black;"/>
+   <text width="144" height="20" x="972" y="161" style="fill:#fff;" font-family="Arial" font-size="16px"> AspNetUserTokens</text>
+   <rect width="144" height="20" x="967" y="167" style="fill:none;stroke:black;"/>
+   <text width="144" height="20" x="972" y="181" style="fill:black;" font-family="Arial" font-size="16px">UserId</text>
+   <rect width="144" height="20" x="967" y="187" style="fill:#aea;stroke:black;"/>
+   <text width="144" height="20" x="972" y="201" style="fill:black;" font-family="Arial" font-size="16px">LoginProvider</text>
+   <rect width="144" height="20" x="967" y="207" style="fill:#aea;stroke:black;"/>
+   <text width="144" height="20" x="972" y="221" style="fill:black;" font-family="Arial" font-size="16px">Name</text>
+   <rect width="144" height="20" x="967" y="227" style="fill:none;stroke:black;"/>
+   <text width="144" height="20" x="972" y="241" style="fill:black;" font-family="Arial" font-size="16px">Value</text>
+   <rect width="162" height="20" x="170" y="513" style="fill:#007;stroke:black;"/>
+   <text width="162" height="20" x="175" y="527" style="fill:#fff;" font-family="Arial" font-size="16px"> __EFMigrationsHistory</text>
+   <rect width="162" height="20" x="170" y="533" style="fill:none;stroke:black;"/>
+   <text width="162" height="20" x="175" y="547" style="fill:black;" font-family="Arial" font-size="16px">MigrationId</text>
+   <rect width="162" height="20" x="170" y="553" style="fill:none;stroke:black;"/>
+   <text width="162" height="20" x="175" y="567" style="fill:black;" font-family="Arial" font-size="16px">ProductVersion</text>
+</svg>
