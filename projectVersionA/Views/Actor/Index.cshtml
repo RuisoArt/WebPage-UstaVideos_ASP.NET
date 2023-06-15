@@ -1,0 +1,43 @@
+@model IEnumerable<Actor>
+
+@{
+    ViewData["Title"] = "Actor list";
+}
+
+<div class="row">
+    <div class="col-md-10 offset-md-1">
+        <table class="table">
+            <thead>
+                <tr class="text-center">
+                    <th>@Html.DisplayNameFor(m => m.ProfilePictureURL)</th>
+                    <th>@Html.DisplayNameFor(m => m.FullName)</th>
+                    <th>@Html.DisplayNameFor(m => m.Bio)</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr class="text-center">
+                        <td class="text-center">
+                            <img class="rounded-circle" src="@item.ProfilePictureURL" alt="@item.FullName" style="width:100px"/>
+                        </td>
+                        <td class="text-start small">@item.FullName</td>
+                        <td class="text-start small">@item.Bio</td>
+                        <td class="text-start">
+                            <a class="btn btn-outline-primary btn-sm col-11" asp-action="Edit" asp-route-id="@item.Id"><i class="bi bi-pencil-square"></i> Edit</a>
+                            <a class="btn btn-outline-info btn-sm col-11" asp-action="Details" asp-route-id="@item.Id"><i class="bi bi-eye"></i> Details</a>
+                            <a class="btn btn-danger text-white btn-sm col-11" asp-action="Delete" asp-route-id="@item.Id"><i class="bi bi-trash"></i> Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<div class="text-white mb-4" style="position: fixed; right: 25px; bottom: 38px;">
+    <a class="btn btn-success">
+        <i class="bi bi-plus-circle"></i> Add New
+    </a>
+</div>
